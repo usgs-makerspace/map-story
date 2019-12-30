@@ -1,6 +1,6 @@
 {
-  "name": "hurricane-visualization",
-  "version": "0.1.0",
+  "name": "map-story",
+  "version": "0.0.1",
   "private": true,
   "browserslist": [
     "last 1 version",
